@@ -43,20 +43,15 @@ VIVA-XL plot for SP TSPC latch Here it can be seen that the output follows the i
 * ![image](https://github.com/ani171/TSPC_latch/assets/97838595/3779bdca-b070-4e56-99bb-5e3aee165e5c)
 * ![image](https://github.com/ani171/TSPC_latch/assets/97838595/64de15f1-7ae7-476a-bd34-9fbfdbbbcda8)
 Power graph for Traditional D-latch A spike in the graph can be observed when the transistors are on. When all the transistors are on, a high peak in the graph at around 5.2ns can be observed.
-<br>
-</br>
 * ![image](https://github.com/ani171/TSPC_latch/assets/97838595/a2c2b0cc-7cdc-4cdb-857f-17b2f2d9d48b)
 Average power consumption for traditional D-latch, with a load of 120f F
 <br>
 </br>
 
 2. SP-type TSPC latch
-* ![image](https://github.com/ani171/TSPC_latch/assets/97838595/d14f93ff-3b52-433d-8fa4-fa05f63ada64)
+![image](https://github.com/ani171/TSPC_latch/assets/97838595/d14f93ff-3b52-433d-8fa4-fa05f63ada64)
 Power graph for Non-precharged TSPC latch of P-type
-<br>
-</br>
-![image](https://github.com/ani171/TSPC_latch/assets/97838595/35ae24bc-b515-4a6e-a7b6-b54364bdc877)
-
+![image](https://github.com/ani171/TSPC_latch/assets/97838595/21a251f2-fcd2-48dd-8759-417d9d7aa42b)
 Average power consumption for SP latch with a load of 120f F
 <br>
 </br>
