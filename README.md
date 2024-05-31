@@ -45,3 +45,22 @@ VIVA-XL plot for SP TSPC latch Here it can be seen that the output follows the i
 Power graph for Traditional D-latch A spike in the graph can be observed when the transistors are on. When all the transistors are on, a high peak in the graph at around 5.2ns can be observed.
 <br>
 </br>
+* ![image](https://github.com/ani171/TSPC_latch/assets/97838595/a2c2b0cc-7cdc-4cdb-857f-17b2f2d9d48b)
+Average power consumption for traditional D-latch, with a load of 120f F
+<br>
+</br>
+
+2. SP-type TSPC latch
+* ![image](https://github.com/ani171/TSPC_latch/assets/97838595/d14f93ff-3b52-433d-8fa4-fa05f63ada64)
+Power graph for Non-precharged TSPC latch of P-type
+<br>
+</br>
+* ![image](https://github.com/ani171/TSPC_latch/assets/97838595/1fff46ba-bc8e-4c61-9a4c-5a9370e80fe2)
+Average power consumption for SP latch with a load of 120f F
+<br>
+</br>
+
+### Conclusion
+
+Traditional D-latches consume an average of 104 microwatts of power. In contrast, TSPC SP-type latches significantly reduce this consumption to just 83 microwatts. This impressive power saving of nearly half (19%) is achieved by eliminating the reliance on a complementary clock signal in the TSPC SP-type latch design. 
+
