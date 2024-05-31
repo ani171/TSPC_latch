@@ -55,7 +55,7 @@ Average power consumption for traditional D-latch, with a load of 120f F
 Power graph for Non-precharged TSPC latch of P-type
 <br>
 </br>
-* ![image](https://github.com/ani171/TSPC_latch/assets/97838595/1fff46ba-bc8e-4c61-9a4c-5a9370e80fe2)
+*  ![image](https://github.com/ani171/TSPC_latch/assets/97838595/1fff46ba-bc8e-4c61-9a4c-5a9370e80fe2)
 Average power consumption for SP latch with a load of 120f F
 <br>
 </br>
