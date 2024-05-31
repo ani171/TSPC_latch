@@ -1,4 +1,4 @@
-# TSPC_latch
+# TSPC latch
 Low Power VLSI Project
 
 ### Introduction
