@@ -43,7 +43,7 @@ VIVA-XL plot for SP TSPC latch Here it can be seen that the output follows the i
 * ![image](https://github.com/ani171/TSPC_latch/assets/97838595/3779bdca-b070-4e56-99bb-5e3aee165e5c)
 * ![image](https://github.com/ani171/TSPC_latch/assets/97838595/64de15f1-7ae7-476a-bd34-9fbfdbbbcda8)
 Power graph for Traditional D-latch A spike in the graph can be observed when the transistors are on. When all the transistors are on, a high peak in the graph at around 5.2ns can be observed.
-* ![image](https://github.com/ani171/TSPC_latch/assets/97838595/a2c2b0cc-7cdc-4cdb-857f-17b2f2d9d48b)
+* ![image](https://github.com/ani171/TSPC_latch/assets/97838595/a2c2b0cc-7cdc-4cdb-857f-17b2f2d9d48b) <br>
 Average power consumption for traditional D-latch, with a load of 120f F
 <br>
 </br>
